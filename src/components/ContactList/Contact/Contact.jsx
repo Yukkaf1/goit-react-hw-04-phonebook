@@ -8,7 +8,7 @@ export const Contact = ({ name, number, onDeleteContact }) => {
         {name}: {number}
       </ContactInfo>
       <Button type="button" onClick={onDeleteContact}>
-        delete
+        X
       </Button>
     </>
   );
