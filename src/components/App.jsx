@@ -7,7 +7,6 @@ export class App extends Component {
     return (
       <>
         <p>Feedback React HW4 </p>
-        <p>Script 4</p>
       </>
     );
   }
