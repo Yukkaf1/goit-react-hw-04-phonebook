@@ -6,7 +6,8 @@ export class App extends Component {
   render() {
     return (
       <>
-        <p>Feedback React HW 4</p>
+        <p>Feedback React HW4 </p>
+        <p>Script 4</p>
       </>
     );
   }
