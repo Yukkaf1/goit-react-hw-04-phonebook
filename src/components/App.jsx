@@ -6,7 +6,7 @@ export class App extends Component {
   render() {
     return (
       <>
-        <p>Feedback React hooks</p>
+        <p>Feedback React HW 4</p>
       </>
     );
   }
