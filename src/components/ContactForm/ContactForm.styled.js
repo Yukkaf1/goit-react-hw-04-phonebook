@@ -14,24 +14,14 @@ export const Input = styled.input`
 `;
 
 export const Button = styled.button`
-  margin-bottom: 15px;
-
-  width: 100%;
-  padding: 0.35em 1.2em;
-  background-color: grey;
-  border: 0.1em solid #ffffff;
-  margin-bottom: 15px;
-  border-radius: 0.12em;
-
-  text-decoration: none;
-  font-size: 15px;
-  font-weight: 300;
-  color: #ffffff;
+margin-top: 18px;
+  padding: 8px 14px;
+  font-size: 16px;
+  color: white;
+  background: darkblue;
+  gap: 20px;
+  border-radius: 10px;
+  border: none;
   text-align: center;
-  transition: all 0.2s;
-
-  :hover {
-    color: #ffffff;
-    background-color: #000000;
   }
 `;
